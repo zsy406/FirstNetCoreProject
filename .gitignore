@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs
+/FirstNetCoreProject1/.vs/FirstNetCoreProject1/v15
+/FirstNetCoreProject1/FirstNetCoreProject1/obj
+/FirstNetCoreProject1/FirstNetCoreProject1/bin/Debug/netcoreapp2.0
